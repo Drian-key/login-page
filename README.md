@@ -1,3 +1,11 @@
+# How to use
+run on your terminal
+~ git clone https://github.com/Drian-key/login-page.git
+~ cd login-page
+~ npm install / yarn install
+~ npm run dev / yarn run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
