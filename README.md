@@ -1,9 +1,20 @@
 # How to use
 run on your terminal
-~ git clone https://github.com/Drian-key/login-page.git
-~ cd login-page
-~ npm install / yarn install
-~ npm run dev / yarn run dev
+```bash
+git clone https://github.com/Drian-key/login-page.git
+```
+
+```bash
+cd login-page
+```
+
+```bash
+npm install / yarn install
+```
+
+```bash
+npm run dev / yarn run dev
+```
 
 
 # React + Vite
